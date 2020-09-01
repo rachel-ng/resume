@@ -1,54 +1,85 @@
 ---
 # Personal details
-name: Friedrich Nietzsche
-address:
-- Humboldtstraße 36
-- 99425 Weimar
-- Prussia
-phone: "+49 03643 545400"
-email: friedrich@thevoid.de
+name: Rachel Ng
+phone: "613-709-2013"
+email: rng@gmail.com 
 # Insert URLs without http://
 urls:
-- wki.pe/friedrich_nietzsche
-- twitter.com/tinynietzsche
+- link: https://youtu.be/gdZLi9oWNZg
+  icon: \fontsize{11pt}{11pt}\selectfont  \faLinkedinSquare
+  name: rachel-ng
+- link: github.com/rachel-ng
+  icon: \fontsize{11pt}{11pt}\selectfont  \faGithub
+  name: rachel-ng
+
 
 # Sections
 
-intro: "I know my fate. One day my name will be associated with the memory of something tremendous --- a crisis without equal on earth, the most profound collision of conscience, a decision that was conjured up against everything that had been believed, demanded, hallowed so far. I am no man, I am dynamite."
-
-skills:
-- Aesthetics, Ethics, Metaphysics, Nihilism
-- Psychology, Ontology, Poetry, Value theory
-- Voluntarism, Tragedy, Fact–value distinction
-- Anti-foundationalism, Philosophy of history
+intro: "Objective: To obtain a job. (Please hire me)" #"I know my fate. One day my name will be associated with the memory of something tremendous --- a crisis without equal on earth, the most profound collision of conscience, a decision that was conjured up against everything that had been believed, demanded, hallowed so far. I am no man, I am dynamite."
 
 experience:
-- years: 1879--1889
-  employer: Freiberufler
-  job: Freier Philisoph
-  city: Sils-Maria
-- years: 1869–-1879
-  employer: Universität Basel
-  job: Professor für klassische Philologie
-  city: Basel
-- years: 1867--1868
-  employer: Preußischen Artillerie
-  job: Kanonier
-  city: Naumburg
+- years: Jun 2020 -- Present
+  employer: Hope World
+  job: Resident Representative 
+  description: 
+    - Assisted in the development of the island from an abandoned island to a 4 \selectfont \faStar \ island that hosted K.K. Slider in less than 3 weeks. 
+    - Procured and designated areas for residential and commercial buildings. Assisted residents and local business owners with relocating their property. 
+    - Planned Hope World's infrastructure and organized funding of the island's bridges and ramps. 
+    - Decorated and terraformed the island to beautify it and attract new villagers. 
+- years: Jun 2020 -- Present
+  employer: Museum
+  job: Assistant Curator
+  description: 
+    - Assisted museum's head curator, Blathers, with the research and preservation of the island's local creatures by collecting and donating native fish, insects, and sea creatures. 
+    - Searched for and collected local fossils for identification in order to further the museum's paleontological efforts. 
+    - Inspected and procured rare pieces of art for the Hope World Museum and contributed to the island's cultural quality. 
+
+extracurriculars:
+- years: Jun 2020 -- Present 
+  employer: Unhinged Fishing Fan 
+  #job: 
+  description: 
+  - Fished a lot. 
+  - Collector and seller of Red Snappers, Barred Knifejaws, Arowana, Dorados, Arapaima, Saw Sharks, Hammerhead Sharks, Great White Sharks, Whale Sharks, Coelacanths. 
+  - Sold 900k bells of Dorados; 624k bells of Arapaima, Whale Sharks, and Great White Sharks; 456k bells of Arowana, Hammerhead Sharks, Saw Sharks, and Snapping Turtles.\hfill\break Photo references provided upon request :)
+- years: Jun 2020 -- Present 
+  employer: Emerging Artisan 
+  description: 
+  - DIY enthusiast. 
+  - Collected 172 DIY recipes. Made all tools and a large amount of the island's decor with my own two (2) hands. 
+  - Customized handmade and store bought items. 
 
 education:
-- year: 1867
-  subject: Philology
-  institute: Leipzig Universität
-  city: Leipzig
-- year: 1864
-  subject: Abitur
-  institute: Schulpforta
-  city: Naumburg
+- institute: r/AnimalCrossing 
+  city: Reddit
+  years: Jun 2020 -- Present
+  subject: Animal Crossing
+  degree: Masters of Arts
+  honors: 250+ Hours of Game Play
+  gpa: 4 \selectfont \faStar
+  coursework: 
+    - Urban Planning
+    - Bug Catching 101 
+    - Ichthyology
+    - Paleontology
+    - Horticulture
+    - Mendelian Plant Genetics  
+    - Scuba Diving
+- institute: Animal Crossing Memes
+  city: Facebook
+  years: Jun 2020 -- Present 
+  degree: Clown School Diploma
+  coursework: 
+    - AP Memes
+    - AP Fishing 
+
+skills:
+- Fishing, Bug Catching, Fossil Digging, Deep Sea Diving
+- Python, AngularFish, C Bass 
 
 # Settings
-mainfont: Hoefler Text
+mainfont: Source Sans Pro
 fontsize: 10pt
 lang: en-GB
-geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+geometry: letterpaper, left=0.75in, right=0.75in, top=0.5in, bottom=0.25in
 ---
